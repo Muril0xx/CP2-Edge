@@ -198,9 +198,10 @@ Durante o desenvolvimento do projeto, foram trabalhados conhecimentos relacionad
 
 O projeto proporcionou uma experiência prática no desenvolvimento de soluções embarcadas utilizando Arduino, permitindo integrar sensores, atuadores e interface visual em um único sistema.
 
-https://youtu.be/e2Gzda7pUhA?si=C7Fwa9H6fOapSgXp
-
 A implementação dos alertas automáticos e do monitoramento em tempo real tornou a solução mais eficiente, intuitiva e próxima de aplicações reais utilizadas no controle ambiental de vinherias e adegas.
 
 Além disso, o projeto reforça a importância da tecnologia na preservação da qualidade dos vinhos, garantindo melhores condições de armazenamento através da automação.
+
+
+https://youtu.be/e2Gzda7pUhA?si=C7Fwa9H6fOapSgXp
 
