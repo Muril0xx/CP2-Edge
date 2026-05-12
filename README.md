@@ -147,5 +147,5 @@ O projeto permitiu aplicar conceitos de programação, eletrônica e automação
 Com o desenvolvimento do sistema, foi possível compreender melhor a utilização de sensores, leitura de dados em tempo real, acionamento de atuadores e exibição de informações em displays.
 O resultado final foi um sistema funcional de monitoramento ambiental para uma vinheria, capaz de auxiliar na preservação da qualidade dos produtos armazenados.
 
-https://youtu.be/e2Gzda7pUhA?si=C7Fwa9H6fOapSgXp
+
 
