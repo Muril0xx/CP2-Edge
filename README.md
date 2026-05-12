@@ -15,7 +15,7 @@ Os dados coletados são exibidos em um **display LCD I2C 16x2**, enquanto alerta
 # 👨‍💻 Integrantes
 
 * Isa
-* Adicionar os demais integrantes
+* Murilo 
 
 ---
 
