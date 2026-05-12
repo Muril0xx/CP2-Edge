@@ -1,3 +1,4 @@
+
 # Vinheria Agnello 🍷
 
 ## Sistema Inteligente de Monitoramento Ambiental com Arduino
@@ -153,7 +154,7 @@ https://youtu.be/e2Gzda7pUhA?si=C7Fwa9H6fOapSgXp
 
 # 🖼️ Imagem do Circuito
 
-Adicionar print do circuito desenvolvido no Tinkercad.
+<img align="center" width="1366" height="536" alt="circuito" src="https://github.com/user-attachments/assets/a8226545-71c1-44a7-9852-6403b153aea7" />
 
 ---
 
