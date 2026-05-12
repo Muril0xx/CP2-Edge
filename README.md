@@ -142,14 +142,13 @@ Verifique:
 
 ## 🧪 Simulação no Tinkercad
 
-Adicionar link da simulação
+
 
 ---
 
 ## 🎥 Vídeo Explicativo
 
-Adicionar link do vídeo
-
+https://youtu.be/e2Gzda7pUhA?si=C7Fwa9H6fOapSgXp
 ---
 
 # 🖼️ Imagem do Circuito
